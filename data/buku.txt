@@ -1,0 +1,4 @@
+kode;judul;penulis;halaman
+BK001;Laskar Pelangi;Andrea Hirata;529
+BK002;Bumi;Tere Liye;440
+BK003;Negeri 5 Menara;Ahmad Fuadi;424
